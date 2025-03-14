@@ -1,0 +1,323 @@
+DoctorVisits,Vaccinations,Surgeries,SickDays,HospitalVisits,DentalVisits,Age,LifetimeDoctorVisits,LifetimeVaccinations,LifetimeSurgeries,LifetimeHospitalVisits,LifetimeHospitalDays,LifetimeDentalVisits,Smoker,HasInsurance,ExerciseHours,RehabSessions,ChronicConditions,AnnualHealthSpending,ChangedInsurance
+45.0,9.0,1.0,64.0,3.0,32.0,51.0,3418.0,176.0,15.0,637.0,524.0,306.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,92.0,46.0,16.0,1361.575257156455,Private Health Insurance
+120.0,37.0,9.0,199.0,34.0,37.0,22.0,1235.0,66.0,4.0,343.0,174.0,91.0,Using smoking cessation programs to improve overall health,No,41.0,19.0,5.0,960.8556688070895,Medicare
+52.0,12.0,4.0,33.0,15.0,22.0,37.0,2997.0,177.0,17.0,719.0,613.0,371.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,114.0,19.0,12.0,2835.39192931038,Private Health Insurance
+18.0,0.0,0.0,13.0,0.0,27.0,4.0,117.0,0.0,0.0,11.0,3.0,32.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,15.0,45.0,3.0,814.8052694153424,Private Health Insurance
+51.0,13.0,0.0,22.0,0.0,10.0,66.0,2426.0,127.0,1.0,406.0,180.0,186.0,Using smoking cessation programs to improve overall health,Yes,25.0,18.0,6.0,678.7980871001807,Private Health Insurance
+92.0,18.0,1.0,92.0,13.0,135.0,57.0,4566.0,223.0,24.0,1004.0,798.0,874.0,Using smoking cessation programs to improve overall health,No,31.0,24.0,2.0,1596.4540796408464,Private Health Insurance
+96.0,15.0,0.0,38.0,8.0,95.0,47.0,3971.0,181.0,12.0,819.0,518.0,683.0,Using smoking cessation programs to improve overall health,No,17.0,50.0,12.0,1156.0821055250299,Medicare
+150.0,46.0,5.0,194.0,36.0,104.0,55.0,3028.0,151.0,9.0,645.0,363.0,434.0,Using smoking cessation programs to improve overall health,Yes,45.0,84.0,4.0,1328.251277874265,Medicare
+97.0,16.0,2.0,59.0,21.0,13.0,39.0,1125.0,50.0,6.0,241.0,190.0,69.0,Using smoking cessation programs to improve overall health,No,241.0,16.0,5.0,583.8271242837817,Medicare
+43.0,5.0,2.0,13.0,6.0,22.0,50.0,3785.0,182.0,12.0,623.0,486.0,370.0,Using smoking cessation programs to improve overall health,Yes,370.0,24.0,5.0,1412.1970053819591,Medicare
+71.0,22.0,1.0,120.0,7.0,21.0,9.0,363.0,17.0,1.0,109.0,23.0,73.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,152.0,4.0,2.0,1326.8105756207835,Private Health Insurance
+54.0,8.0,2.0,94.0,5.0,105.0,60.0,4989.0,256.0,12.0,981.0,677.0,659.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,91.0,31.0,1.0,820.3337612902956,Private Health Insurance
+87.0,13.0,2.0,95.0,12.0,24.0,59.0,4133.0,202.0,11.0,683.0,512.0,301.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,114.0,25.0,6.0,2282.1362073371815,Private Health Insurance
+82.0,16.0,5.0,138.0,16.0,43.0,42.0,1259.0,42.0,2.0,234.0,108.0,148.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,292.0,53.0,17.0,2389.8139540469087,Medicare
+55.0,19.0,3.0,70.0,19.0,3.0,17.0,1032.0,42.0,1.0,119.0,97.0,81.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,232.0,37.0,9.0,1743.7126017815535,Private Health Insurance
+109.0,20.0,1.0,150.0,15.0,106.0,79.0,7817.0,453.0,10.0,1764.0,817.0,970.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,102.0,74.0,5.0,1103.4797737711194,Private Health Insurance
+43.0,15.0,5.0,42.0,21.0,3.0,34.0,1566.0,98.0,4.0,276.0,269.0,169.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,202.0,1.0,1.0,929.7325981374573,Private Health Insurance
+96.0,32.0,3.0,129.0,19.0,33.0,43.0,3641.0,179.0,10.0,793.0,502.0,489.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,203.0,20.0,11.0,1818.3660730914658,Private Health Insurance
+47.0,7.0,0.0,6.0,5.0,12.0,31.0,1211.0,47.0,7.0,143.0,208.0,100.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,181.0,39.0,13.0,1094.262509451386,Private Health Insurance
+22.0,2.0,4.0,64.0,5.0,50.0,35.0,1084.0,44.0,3.0,318.0,99.0,422.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,188.0,1.0,0.0,2111.903449296469,Private Health Insurance
+243.0,92.0,10.0,252.0,50.0,50.0,38.0,3432.0,178.0,14.0,547.0,630.0,110.0,Using smoking cessation programs to improve overall health,No,185.0,69.0,6.0,1938.1476378492616,Medicare
+118.0,30.0,4.0,140.0,21.0,64.0,64.0,4178.0,225.0,20.0,950.0,714.0,584.0,Using smoking cessation programs to improve overall health,No,190.0,51.0,6.0,1233.6605096525384,Medicare
+234.0,60.0,10.0,179.0,40.0,38.0,93.0,5610.0,287.0,16.0,1068.0,810.0,358.0,Using smoking cessation programs to improve overall health,No,306.0,17.0,10.0,3298.1892945704335,Medicare
+47.0,14.0,0.0,108.0,3.0,41.0,76.0,4918.0,253.0,4.0,952.0,463.0,477.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,86.0,12.0,6.0,1295.2484516255324,Private Health Insurance
+105.0,28.0,0.0,112.0,7.0,11.0,22.0,783.0,35.0,2.0,84.0,67.0,13.0,Using smoking cessation programs to improve overall health,No,177.0,76.0,19.0,2073.0798104708,Medicare
+184.0,56.0,8.0,273.0,45.0,123.0,42.0,2301.0,105.0,5.0,372.0,316.0,222.0,Using smoking cessation programs to improve overall health,Yes,37.0,54.0,11.0,964.1506807862115,Medicare
+163.0,57.0,7.0,191.0,45.0,125.0,74.0,4857.0,263.0,18.0,1070.0,928.0,447.0,Using smoking cessation programs to improve overall health,No,269.0,13.0,1.0,4124.013866757816,Medicare
+288.0,82.0,6.0,207.0,40.0,114.0,95.0,9737.0,494.0,29.0,1882.0,1408.0,933.0,Using smoking cessation programs to improve overall health,Yes,270.0,80.0,16.0,4690.3717906118245,Medicare
+92.0,29.0,2.0,175.0,13.0,56.0,83.0,7760.0,408.0,11.0,1333.0,831.0,687.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,127.0,8.0,3.0,3338.4551516022784,Private Health Insurance
+147.0,33.0,8.0,161.0,46.0,102.0,10.0,1361.0,60.0,7.0,241.0,251.0,112.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,91.0,43.0,14.0,1341.6966920639125,Private Health Insurance
+51.0,9.0,0.0,27.0,1.0,3.0,73.0,4265.0,211.0,12.0,848.0,463.0,435.0,Using smoking cessation programs to improve overall health,Yes,69.0,12.0,5.0,1015.7075709357331,Medicare
+145.0,52.0,2.0,155.0,24.0,24.0,22.0,2176.0,116.0,7.0,426.0,348.0,189.0,Using smoking cessation programs to improve overall health,Yes,183.0,49.0,6.0,1801.1518509074406,Medicare
+88.0,26.0,2.0,88.0,11.0,55.0,87.0,5420.0,263.0,22.0,959.0,1031.0,491.0,Using smoking cessation programs to improve overall health,No,354.0,46.0,4.0,1727.896607289513,Medicare
+43.0,11.0,1.0,28.0,4.0,7.0,92.0,3960.0,194.0,7.0,627.0,392.0,294.0,Using smoking cessation programs to improve overall health,No,62.0,51.0,2.0,2404.616021425684,Medicare
+11.0,3.0,0.0,4.0,0.0,1.0,28.0,1445.0,86.0,0.0,350.0,50.0,121.0,Using smoking cessation programs to improve overall health,No,110.0,61.0,12.0,1197.343996264581,Medicare
+217.0,77.0,10.0,293.0,47.0,196.0,19.0,1351.0,60.0,16.0,345.0,385.0,428.0,Using smoking cessation programs to improve overall health,Yes,474.0,6.0,0.0,4323.328685949902,Medicare
+152.0,67.0,4.0,201.0,31.0,29.0,26.0,2059.0,99.0,4.0,326.0,198.0,138.0,Using smoking cessation programs to improve overall health,Yes,166.0,27.0,12.0,2919.5536192470736,Medicare
+148.0,44.0,1.0,136.0,9.0,34.0,15.0,513.0,21.0,0.0,59.0,15.0,20.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,394.0,35.0,10.0,1309.8872805171047,Private Health Insurance
+87.0,17.0,6.0,114.0,30.0,109.0,100.0,9876.0,499.0,30.0,1913.0,1461.0,987.0,Using smoking cessation programs to improve overall health,Yes,310.0,29.0,14.0,4810.289289903961,Medicare
+90.0,14.0,7.0,132.0,20.0,39.0,4.0,583.0,19.0,3.0,111.0,45.0,172.0,Using smoking cessation programs to improve overall health,No,136.0,38.0,6.0,826.9396243867162,Medicare
+116.0,34.0,8.0,237.0,31.0,57.0,67.0,6244.0,356.0,14.0,1447.0,680.0,606.0,Using smoking cessation programs to improve overall health,No,96.0,47.0,4.0,1356.588007893329,Medicare
+156.0,53.0,6.0,211.0,40.0,190.0,79.0,7372.0,397.0,30.0,1707.0,1372.0,983.0,Using smoking cessation programs to improve overall health,No,107.0,21.0,1.0,4365.341794697455,Medicare
+163.0,35.0,4.0,196.0,24.0,164.0,9.0,558.0,27.0,1.0,202.0,28.0,169.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,370.0,24.0,4.0,1869.6907474632776,Private Health Insurance
+252.0,95.0,9.0,264.0,46.0,80.0,18.0,1151.0,66.0,9.0,306.0,229.0,100.0,Using smoking cessation programs to improve overall health,No,140.0,9.0,1.0,1472.0027736799434,Medicare
+47.0,7.0,0.0,6.0,1.0,27.0,46.0,3102.0,167.0,8.0,520.0,349.0,412.0,Using smoking cessation programs to improve overall health,Yes,316.0,69.0,9.0,2599.14171365016,Medicare
+105.0,24.0,2.0,77.0,9.0,3.0,33.0,1448.0,64.0,3.0,246.0,130.0,37.0,Using smoking cessation programs to improve overall health,Yes,139.0,88.0,11.0,776.7491563880778,Medicare
+134.0,38.0,4.0,122.0,26.0,69.0,16.0,518.0,17.0,1.0,41.0,36.0,121.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,173.0,68.0,5.0,594.668240167807,Private Health Insurance
+192.0,78.0,9.0,208.0,37.0,27.0,45.0,2910.0,155.0,15.0,502.0,565.0,127.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,178.0,4.0,2.0,2177.8306070417107,Private Health Insurance
+19.0,1.0,0.0,0.0,0.0,8.0,56.0,2182.0,108.0,8.0,338.0,325.0,156.0,Using smoking cessation programs to improve overall health,Yes,197.0,26.0,4.0,2696.240661019146,Medicare
+114.0,27.0,4.0,172.0,19.0,59.0,91.0,7708.0,381.0,26.0,1562.0,1130.0,561.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,34.0,23.0,5.0,4102.155535702102,Medicare
+33.0,5.0,5.0,37.0,9.0,5.0,4.0,544.0,20.0,6.0,154.0,113.0,150.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,60.0,9.0,7.0,863.5115090557404,Medicare
+144.0,58.0,3.0,247.0,12.0,103.0,5.0,518.0,26.0,2.0,155.0,49.0,120.0,Using smoking cessation programs to improve overall health,Yes,72.0,47.0,15.0,1917.1989638445843,Medicare
+90.0,27.0,2.0,106.0,6.0,10.0,77.0,5248.0,266.0,8.0,1023.0,441.0,516.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,20.0,35.0,12.0,1125.4810166014108,Private Health Insurance
+234.0,58.0,5.0,313.0,32.0,180.0,59.0,6426.0,392.0,23.0,1483.0,1110.0,598.0,Using smoking cessation programs to improve overall health,No,419.0,62.0,14.0,2363.8521380618267,Private Health Insurance
+56.0,9.0,2.0,66.0,14.0,33.0,77.0,3825.0,187.0,18.0,819.0,656.0,413.0,Using smoking cessation programs to improve overall health,No,9.0,30.0,7.0,1607.9272164508527,Medicare
+226.0,84.0,2.0,229.0,17.0,81.0,38.0,4007.0,217.0,7.0,809.0,360.0,222.0,Using smoking cessation programs to improve overall health,Yes,393.0,51.0,5.0,3635.360490643788,Medicare
+126.0,34.0,9.0,166.0,27.0,119.0,64.0,3017.0,163.0,12.0,613.0,383.0,376.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,456.0,14.0,4.0,2924.743645164777,Private Health Insurance
+243.0,94.0,5.0,353.0,39.0,197.0,22.0,1134.0,53.0,2.0,284.0,114.0,359.0,Using smoking cessation programs to improve overall health,Yes,262.0,44.0,4.0,2267.1093858353215,Medicare
+27.0,1.0,4.0,48.0,11.0,86.0,33.0,952.0,34.0,6.0,255.0,162.0,202.0,Using smoking cessation programs to improve overall health,Yes,44.0,15.0,0.0,2264.7649371891052,Medicare
+111.0,32.0,7.0,133.0,37.0,81.0,80.0,7797.0,420.0,29.0,1621.0,1360.0,885.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,378.0,46.0,16.0,3377.9229914817893,Private Health Insurance
+99.0,19.0,1.0,133.0,7.0,152.0,70.0,3296.0,151.0,8.0,585.0,361.0,593.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,208.0,28.0,1.0,1549.5049769333416,Private Health Insurance
+249.0,94.0,3.0,229.0,32.0,169.0,94.0,6998.0,367.0,9.0,1373.0,646.0,626.0,Using smoking cessation programs to improve overall health,Yes,118.0,30.0,9.0,2413.1321864693546,Medicare
+92.0,16.0,0.0,27.0,4.0,60.0,50.0,2518.0,127.0,2.0,475.0,218.0,271.0,Using smoking cessation programs to improve overall health,Yes,146.0,70.0,16.0,1232.1153092687389,Medicare
+60.0,16.0,0.0,24.0,10.0,12.0,75.0,5447.0,289.0,13.0,1024.0,931.0,536.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,400.0,7.0,0.0,1277.2240302452612,Private Health Insurance
+18.0,6.0,2.0,7.0,11.0,39.0,75.0,2897.0,136.0,10.0,428.0,369.0,428.0,Using smoking cessation programs to improve overall health,No,104.0,14.0,1.0,1737.481909581174,Medicare
+72.0,17.0,6.0,76.0,28.0,62.0,63.0,3709.0,177.0,26.0,666.0,891.0,500.0,Using smoking cessation programs to improve overall health,No,46.0,39.0,14.0,2528.5664081764,Medicare
+182.0,49.0,2.0,173.0,14.0,46.0,86.0,8247.0,434.0,16.0,1489.0,1026.0,505.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,324.0,34.0,6.0,1491.9031798107121,Private Health Insurance
+205.0,82.0,10.0,249.0,45.0,158.0,66.0,6376.0,355.0,16.0,1347.0,950.0,826.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,248.0,51.0,5.0,2792.436502288698,Private Health Insurance
+152.0,50.0,9.0,207.0,44.0,36.0,3.0,805.0,41.0,7.0,170.0,171.0,14.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,280.0,23.0,5.0,1552.677766293165,Private Health Insurance
+58.0,12.0,0.0,34.0,4.0,46.0,34.0,1320.0,71.0,5.0,359.0,168.0,124.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,24.0,18.0,0.0,2560.2470321142932,Private Health Insurance
+49.0,16.0,0.0,94.0,2.0,64.0,60.0,2780.0,133.0,9.0,579.0,347.0,547.0,Using smoking cessation programs to improve overall health,Yes,70.0,42.0,4.0,2013.7893879996502,Medicare
+50.0,6.0,5.0,109.0,11.0,52.0,38.0,1154.0,46.0,8.0,311.0,190.0,259.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,172.0,7.0,3.0,803.3495806664839,Private Health Insurance
+177.0,74.0,7.0,307.0,36.0,175.0,32.0,1516.0,85.0,9.0,319.0,305.0,230.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,101.0,10.0,3.0,1733.35677052757,Private Health Insurance
+106.0,23.0,4.0,117.0,24.0,61.0,70.0,5264.0,261.0,20.0,1093.0,736.0,721.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,43.0,60.0,4.0,867.9896181330868,Private Health Insurance
+72.0,13.0,2.0,31.0,8.0,55.0,98.0,6236.0,313.0,10.0,1016.0,618.0,572.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,173.0,27.0,6.0,1473.5269707763161,Private Health Insurance
+205.0,86.0,6.0,336.0,33.0,74.0,55.0,5603.0,287.0,20.0,1085.0,1062.0,589.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,56.0,62.0,15.0,3637.631608673659,Private Health Insurance
+111.0,29.0,0.0,71.0,6.0,38.0,10.0,565.0,23.0,2.0,69.0,57.0,58.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,15.0,88.0,19.0,763.6331151471114,Private Health Insurance
+220.0,54.0,5.0,271.0,32.0,78.0,2.0,562.0,32.0,1.0,87.0,51.0,39.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,470.0,72.0,13.0,2138.727036824469,Private Health Insurance
+266.0,100.0,3.0,348.0,24.0,69.0,64.0,5169.0,282.0,15.0,1245.0,616.0,515.0,Using smoking cessation programs to improve overall health,Yes,149.0,9.0,0.0,1751.7934160807802,Medicare
+111.0,22.0,1.0,56.0,14.0,71.0,57.0,2352.0,114.0,2.0,376.0,239.0,190.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,64.0,75.0,17.0,1979.3202352649432,Private Health Insurance
+22.0,6.0,0.0,46.0,3.0,79.0,39.0,1936.0,99.0,2.0,410.0,214.0,304.0,Using smoking cessation programs to improve overall health,No,2.0,8.0,0.0,1137.0756084170462,Private Health Insurance
+38.0,4.0,0.0,14.0,4.0,82.0,13.0,1095.0,62.0,4.0,236.0,167.0,207.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,52.0,63.0,17.0,1709.1192362163906,Private Health Insurance
+104.0,18.0,4.0,141.0,9.0,41.0,15.0,1327.0,65.0,5.0,295.0,172.0,85.0,Using smoking cessation programs to improve overall health,Yes,115.0,56.0,3.0,702.2166090979739,Medicare
+65.0,18.0,1.0,67.0,7.0,68.0,58.0,3922.0,192.0,10.0,666.0,504.0,461.0,Using smoking cessation programs to improve overall health,Yes,89.0,80.0,14.0,3779.5715083769323,Private Health Insurance
+54.0,9.0,1.0,61.0,7.0,49.0,36.0,829.0,28.0,6.0,208.0,131.0,179.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,4.0,7.0,3.0,2031.922835981462,Private Health Insurance
+131.0,24.0,8.0,113.0,40.0,123.0,89.0,5630.0,282.0,27.0,1139.0,1137.0,632.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,348.0,7.0,3.0,1367.723409879058,Private Health Insurance
+103.0,36.0,7.0,121.0,22.0,97.0,92.0,7974.0,419.0,30.0,1687.0,1283.0,883.0,Using smoking cessation programs to improve overall health,No,7.0,49.0,9.0,1641.4361236388668,Medicare
+11.0,1.0,1.0,33.0,3.0,40.0,8.0,411.0,14.0,3.0,113.0,53.0,172.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,21.0,9.0,6.0,1188.9443925855994,Private Health Insurance
+165.0,54.0,7.0,258.0,30.0,175.0,21.0,2059.0,111.0,7.0,547.0,251.0,357.0,Using smoking cessation programs to improve overall health,No,439.0,55.0,18.0,3371.4594901210608,Medicare
+40.0,7.0,2.0,100.0,2.0,46.0,86.0,4099.0,196.0,6.0,884.0,306.0,677.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,52.0,9.0,5.0,850.1368939929675,Medicare
+291.0,99.0,2.0,223.0,20.0,140.0,81.0,9127.0,482.0,25.0,1752.0,1335.0,762.0,Using smoking cessation programs to improve overall health,Yes,43.0,45.0,4.0,4525.321894288169,Medicare
+131.0,25.0,9.0,163.0,42.0,102.0,20.0,779.0,32.0,10.0,264.0,169.0,206.0,Using smoking cessation programs to improve overall health,Yes,154.0,1.0,2.0,1315.7145761073164,Medicare
+16.0,1.0,4.0,6.0,9.0,33.0,29.0,1577.0,80.0,19.0,351.0,498.0,416.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,31.0,1.0,1.0,1121.2316615025281,Private Health Insurance
+97.0,16.0,1.0,87.0,15.0,142.0,62.0,4391.0,244.0,11.0,972.0,580.0,582.0,Using smoking cessation programs to improve overall health,No,235.0,18.0,2.0,3286.4725671603815,Private Health Insurance
+241.0,62.0,7.0,346.0,28.0,91.0,80.0,5825.0,272.0,23.0,1332.0,815.0,517.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,7.0,91.0,10.0,3270.171954622838,Medicare
+115.0,30.0,8.0,147.0,42.0,113.0,21.0,1945.0,109.0,10.0,518.0,396.0,230.0,Using smoking cessation programs to improve overall health,Yes,95.0,52.0,14.0,2105.3723910707185,Medicare
+27.0,6.0,0.0,16.0,0.0,0.0,33.0,1975.0,99.0,1.0,372.0,68.0,121.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,98.0,65.0,8.0,593.1078655731654,Private Health Insurance
+129.0,49.0,6.0,223.0,24.0,75.0,3.0,362.0,11.0,4.0,68.0,38.0,25.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,306.0,17.0,9.0,895.4189123846586,Medicare
+194.0,55.0,1.0,212.0,27.0,180.0,81.0,5174.0,252.0,16.0,1022.0,817.0,684.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,49.0,28.0,2.0,2821.8939966515704,Private Health Insurance
+209.0,83.0,3.0,278.0,20.0,151.0,2.0,1382.0,85.0,2.0,300.0,164.0,167.0,Using smoking cessation programs to improve overall health,Yes,119.0,24.0,3.0,2402.6498670416863,Medicare
+21.0,0.0,0.0,26.0,1.0,12.0,5.0,123.0,3.0,0.0,16.0,15.0,7.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,323.0,14.0,1.0,676.2001034508356,Private Health Insurance
+235.0,57.0,3.0,143.0,24.0,16.0,19.0,971.0,37.0,1.0,157.0,36.0,50.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,117.0,78.0,16.0,587.7210303519213,Private Health Insurance
+285.0,92.0,10.0,337.0,43.0,162.0,55.0,6441.0,341.0,15.0,1166.0,820.0,718.0,Using smoking cessation programs to improve overall health,No,494.0,21.0,10.0,3067.866902167582,Medicare
+30.0,2.0,0.0,6.0,0.0,48.0,48.0,3623.0,177.0,6.0,619.0,330.0,465.0,Using smoking cessation programs to improve overall health,Yes,3.0,72.0,14.0,2203.1432132773734,Private Health Insurance
+233.0,65.0,3.0,307.0,16.0,170.0,41.0,3079.0,174.0,5.0,654.0,262.0,403.0,Using smoking cessation programs to improve overall health,No,132.0,56.0,17.0,1580.6218845879966,Medicare
+140.0,48.0,7.0,249.0,23.0,170.0,21.0,2607.0,141.0,6.0,660.0,275.0,592.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,394.0,21.0,8.0,4235.12685479318,Private Health Insurance
+285.0,95.0,2.0,358.0,21.0,62.0,6.0,861.0,35.0,0.0,162.0,17.0,56.0,Using smoking cessation programs to improve overall health,No,156.0,95.0,18.0,1481.152875304125,Medicare
+251.0,60.0,7.0,293.0,31.0,137.0,19.0,2229.0,106.0,3.0,499.0,154.0,343.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,283.0,92.0,20.0,3467.03127885246,Private Health Insurance
+53.0,16.0,6.0,102.0,18.0,11.0,28.0,795.0,27.0,5.0,127.0,68.0,51.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,304.0,2.0,5.0,1073.095742801476,Medicare
+40.0,7.0,4.0,65.0,12.0,18.0,43.0,3200.0,173.0,13.0,662.0,544.0,379.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,273.0,19.0,9.0,3499.325243663162,Private Health Insurance
+48.0,10.0,1.0,47.0,8.0,15.0,58.0,4167.0,241.0,4.0,823.0,466.0,419.0,Using smoking cessation programs to improve overall health,No,85.0,3.0,0.0,872.6721673330144,Private Health Insurance
+61.0,11.0,1.0,47.0,3.0,15.0,79.0,3922.0,182.0,6.0,558.0,427.0,188.0,Using smoking cessation programs to improve overall health,Yes,312.0,23.0,3.0,851.3227545013299,Private Health Insurance
+208.0,87.0,1.0,186.0,14.0,25.0,2.0,392.0,28.0,1.0,75.0,33.0,18.0,Using smoking cessation programs to improve overall health,No,144.0,74.0,6.0,2534.172002674068,Medicare
+50.0,7.0,3.0,10.0,10.0,13.0,46.0,2305.0,88.0,5.0,258.0,285.0,207.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,173.0,67.0,9.0,981.4517224125692,Private Health Insurance
+15.0,2.0,2.0,7.0,11.0,1.0,12.0,420.0,16.0,2.0,63.0,42.0,18.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,330.0,7.0,5.0,586.1139539304905,Private Health Insurance
+217.0,80.0,6.0,257.0,41.0,143.0,25.0,1656.0,74.0,15.0,351.0,396.0,300.0,Using smoking cessation programs to improve overall health,No,146.0,25.0,2.0,1493.4528452367413,Medicare
+32.0,4.0,2.0,44.0,2.0,2.0,6.0,109.0,2.0,2.0,21.0,16.0,8.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,57.0,2.0,0.0,1215.063747879432,Private Health Insurance
+188.0,67.0,1.0,161.0,26.0,43.0,40.0,1895.0,91.0,8.0,323.0,344.0,176.0,Using smoking cessation programs to improve overall health,No,55.0,80.0,17.0,1506.6961627110772,Medicare
+36.0,9.0,0.0,28.0,4.0,2.0,63.0,3613.0,177.0,14.0,753.0,591.0,439.0,Using smoking cessation programs to improve overall health,Yes,152.0,34.0,3.0,1784.7801383091735,Medicare
+79.0,16.0,0.0,42.0,5.0,16.0,20.0,1619.0,87.0,7.0,385.0,264.0,216.0,Using smoking cessation programs to improve overall health,Yes,9.0,67.0,4.0,1588.8048993850662,Medicare
+116.0,50.0,0.0,106.0,7.0,15.0,18.0,1066.0,53.0,1.0,174.0,54.0,37.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,325.0,96.0,18.0,1846.6342768416241,Private Health Insurance
+200.0,78.0,1.0,147.0,19.0,6.0,82.0,7060.0,368.0,16.0,1037.0,866.0,253.0,Using smoking cessation programs to improve overall health,Yes,53.0,100.0,8.0,2229.6495376391817,Medicare
+100.0,27.0,1.0,121.0,19.0,60.0,75.0,4243.0,221.0,19.0,863.0,748.0,387.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,338.0,57.0,7.0,1763.3821491084611,Private Health Insurance
+186.0,51.0,10.0,244.0,37.0,143.0,14.0,566.0,18.0,5.0,83.0,63.0,82.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,117.0,17.0,4.0,1809.5899622989716,Private Health Insurance
+271.0,97.0,3.0,249.0,35.0,76.0,18.0,662.0,40.0,1.0,98.0,60.0,17.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,167.0,89.0,15.0,3171.528046856392,Private Health Insurance
+157.0,33.0,9.0,208.0,37.0,52.0,44.0,2740.0,147.0,18.0,642.0,523.0,203.0,Using smoking cessation programs to improve overall health,No,396.0,24.0,13.0,3044.1603865060497,Medicare
+166.0,77.0,7.0,295.0,29.0,114.0,87.0,5514.0,333.0,22.0,1433.0,890.0,758.0,Using smoking cessation programs to improve overall health,Yes,196.0,30.0,2.0,3746.1620948100845,Medicare
+80.0,12.0,6.0,76.0,32.0,105.0,97.0,8823.0,480.0,25.0,1724.0,1400.0,983.0,Using smoking cessation programs to improve overall health,Yes,462.0,1.0,0.0,2421.8383659267174,Private Health Insurance
+23.0,8.0,0.0,50.0,0.0,10.0,74.0,5356.0,290.0,13.0,1152.0,828.0,544.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,44.0,2.0,0.0,2860.5214234071495,Private Health Insurance
+172.0,45.0,9.0,142.0,48.0,115.0,100.0,7797.0,393.0,30.0,1595.0,1386.0,876.0,Using smoking cessation programs to improve overall health,No,365.0,67.0,9.0,2286.892078235371,Medicare
+42.0,7.0,2.0,6.0,3.0,4.0,78.0,4932.0,232.0,21.0,766.0,895.0,365.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,10.0,18.0,1.0,925.7267046774755,Private Health Insurance
+66.0,16.0,3.0,138.0,6.0,59.0,40.0,1350.0,57.0,4.0,288.0,142.0,179.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,339.0,3.0,0.0,1047.6563759336427,Private Health Insurance
+54.0,9.0,0.0,7.0,6.0,4.0,84.0,4862.0,251.0,2.0,853.0,431.0,455.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,6.0,84.0,19.0,980.9544534570092,Private Health Insurance
+219.0,76.0,3.0,319.0,19.0,158.0,30.0,1857.0,103.0,7.0,420.0,292.0,158.0,Using smoking cessation programs to improve overall health,Yes,138.0,32.0,15.0,2338.0572393070347,Medicare
+34.0,10.0,0.0,3.0,2.0,28.0,70.0,4264.0,221.0,10.0,623.0,589.0,348.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,4.0,78.0,14.0,2911.934703936031,Private Health Insurance
+11.0,1.0,4.0,10.0,13.0,8.0,68.0,2935.0,161.0,18.0,547.0,622.0,237.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,227.0,1.0,2.0,1188.055629150401,Private Health Insurance
+259.0,62.0,9.0,285.0,49.0,172.0,16.0,1105.0,47.0,7.0,236.0,223.0,188.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,158.0,99.0,20.0,823.3394430753765,Private Health Insurance
+80.0,21.0,0.0,90.0,10.0,35.0,44.0,2422.0,133.0,4.0,504.0,291.0,199.0,Using smoking cessation programs to improve overall health,Yes,7.0,86.0,5.0,1189.9397149990582,Medicare
+221.0,82.0,10.0,360.0,49.0,182.0,68.0,8023.0,455.0,20.0,1692.0,1157.0,694.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,495.0,55.0,13.0,4905.126911616242,Private Health Insurance
+16.0,0.0,0.0,3.0,0.0,13.0,11.0,221.0,3.0,0.0,35.0,6.0,22.0,Using smoking cessation programs to improve overall health,No,66.0,45.0,3.0,1097.193598518872,Medicare
+98.0,27.0,4.0,122.0,12.0,54.0,85.0,8446.0,475.0,30.0,1744.0,1399.0,770.0,Using smoking cessation programs to improve overall health,Yes,221.0,24.0,1.0,3371.287755940503,Medicare
+75.0,20.0,1.0,38.0,4.0,6.0,46.0,1519.0,99.0,0.0,258.0,93.0,111.0,Using smoking cessation programs to improve overall health,No,350.0,67.0,5.0,2264.362405115175,Medicare
+47.0,12.0,2.0,23.0,19.0,38.0,78.0,3968.0,213.0,20.0,697.0,970.0,438.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,286.0,1.0,0.0,1730.5751925588406,Private Health Insurance
+89.0,18.0,4.0,120.0,26.0,95.0,80.0,7225.0,358.0,26.0,1403.0,1232.0,964.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,38.0,75.0,10.0,3767.19773306521,Private Health Insurance
+35.0,11.0,3.0,68.0,9.0,9.0,96.0,5183.0,251.0,19.0,856.0,981.0,523.0,Using smoking cessation programs to improve overall health,Yes,26.0,0.0,0.0,1675.517379466155,Medicare
+187.0,71.0,1.0,154.0,17.0,88.0,95.0,5795.0,278.0,18.0,932.0,1002.0,448.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,106.0,100.0,19.0,1757.4148455266363,Private Health Insurance
+168.0,70.0,1.0,155.0,11.0,13.0,13.0,1161.0,73.0,3.0,214.0,205.0,28.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,190.0,63.0,9.0,2279.26454129762,Private Health Insurance
+178.0,70.0,7.0,324.0,43.0,140.0,91.0,6969.0,405.0,15.0,1373.0,913.0,485.0,Using smoking cessation programs to improve overall health,No,57.0,9.0,0.0,4317.671081963799,Medicare
+61.0,19.0,3.0,63.0,9.0,47.0,100.0,9875.0,498.0,30.0,1900.0,1455.0,996.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,285.0,20.0,4.0,3148.26659323473,Private Health Insurance
+189.0,53.0,4.0,265.0,36.0,162.0,24.0,1911.0,74.0,15.0,453.0,350.0,391.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,26.0,22.0,1.0,2938.4442487865995,Private Health Insurance
+25.0,5.0,3.0,58.0,8.0,21.0,13.0,517.0,14.0,9.0,140.0,126.0,106.0,Using smoking cessation programs to improve overall health,No,177.0,16.0,0.0,2011.976981239917,Medicare
+51.0,8.0,6.0,115.0,19.0,143.0,23.0,2070.0,102.0,7.0,461.0,281.0,284.0,Using smoking cessation programs to improve overall health,Yes,153.0,13.0,3.0,1446.8389445485182,Private Health Insurance
+297.0,84.0,10.0,305.0,41.0,185.0,12.0,1503.0,64.0,6.0,383.0,202.0,272.0,Using smoking cessation programs to improve overall health,Yes,454.0,17.0,6.0,1431.3018842106235,Medicare
+195.0,88.0,9.0,201.0,41.0,70.0,78.0,6971.0,363.0,27.0,1353.0,1212.0,606.0,Using smoking cessation programs to improve overall health,Yes,90.0,55.0,7.0,4748.1989410162105,Medicare
+263.0,67.0,7.0,349.0,30.0,111.0,24.0,955.0,46.0,1.0,268.0,42.0,110.0,Using smoking cessation programs to improve overall health,No,240.0,17.0,3.0,832.1029624763988,Medicare
+80.0,22.0,7.0,111.0,17.0,57.0,99.0,9795.0,497.0,27.0,1871.0,1445.0,977.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,234.0,1.0,0.0,4451.826320673844,Private Health Insurance
+89.0,13.0,3.0,106.0,12.0,106.0,63.0,6069.0,316.0,13.0,1354.0,750.0,911.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,399.0,9.0,1.0,2039.7536931450445,Private Health Insurance
+31.0,6.0,2.0,13.0,4.0,8.0,7.0,197.0,5.0,4.0,65.0,60.0,45.0,Using smoking cessation programs to improve overall health,No,5.0,19.0,0.0,1126.92623209574,Medicare
+28.0,2.0,3.0,55.0,4.0,55.0,57.0,3114.0,139.0,23.0,620.0,563.0,533.0,Using smoking cessation programs to improve overall health,Yes,14.0,9.0,1.0,933.7829640017753,Medicare
+185.0,73.0,1.0,175.0,25.0,20.0,26.0,1186.0,87.0,2.0,226.0,155.0,47.0,Using smoking cessation programs to improve overall health,No,32.0,90.0,20.0,1812.3940526743224,Medicare
+58.0,9.0,1.0,37.0,5.0,29.0,6.0,604.0,22.0,3.0,85.0,71.0,70.0,Using smoking cessation programs to improve overall health,Yes,99.0,43.0,10.0,1190.098415240193,Private Health Insurance
+18.0,2.0,0.0,8.0,4.0,75.0,58.0,3977.0,219.0,18.0,812.0,773.0,505.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,82.0,7.0,0.0,2873.7807700751964,Private Health Insurance
+42.0,8.0,1.0,43.0,5.0,78.0,27.0,514.0,21.0,6.0,145.0,123.0,244.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,39.0,35.0,7.0,618.3698200715927,Private Health Insurance
+34.0,4.0,3.0,47.0,7.0,6.0,31.0,1081.0,43.0,4.0,152.0,163.0,36.0,Using smoking cessation programs to improve overall health,No,239.0,27.0,2.0,874.9165894996464,Medicare
+63.0,8.0,7.0,91.0,9.0,16.0,20.0,843.0,28.0,2.0,188.0,58.0,110.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,161.0,24.0,14.0,1420.680189137587,Private Health Insurance
+96.0,31.0,4.0,148.0,30.0,152.0,51.0,4082.0,230.0,19.0,898.0,741.0,493.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,147.0,19.0,4.0,4353.75872602542,Private Health Insurance
+111.0,30.0,0.0,133.0,10.0,39.0,44.0,4141.0,230.0,5.0,916.0,360.0,460.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,9.0,55.0,2.0,2740.8424324986127,Private Health Insurance
+100.0,22.0,3.0,141.0,18.0,85.0,70.0,5876.0,310.0,17.0,1177.0,1070.0,687.0,Using smoking cessation programs to improve overall health,Yes,36.0,6.0,0.0,3350.0189434232166,Private Health Insurance
+145.0,43.0,9.0,236.0,29.0,74.0,17.0,2371.0,120.0,21.0,581.0,522.0,282.0,Using smoking cessation programs to improve overall health,Yes,380.0,3.0,2.0,2237.8601006622434,Medicare
+72.0,19.0,4.0,150.0,17.0,21.0,80.0,5225.0,265.0,19.0,979.0,797.0,397.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,9.0,10.0,3.0,1923.9902447816114,Private Health Insurance
+79.0,11.0,2.0,41.0,15.0,88.0,45.0,2259.0,101.0,13.0,508.0,379.0,410.0,Using smoking cessation programs to improve overall health,No,230.0,14.0,6.0,2125.4061453449017,Medicare
+91.0,14.0,7.0,107.0,30.0,32.0,76.0,7186.0,341.0,30.0,1597.0,1333.0,732.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,45.0,20.0,8.0,2724.1521063294535,Private Health Insurance
+139.0,38.0,7.0,149.0,28.0,15.0,43.0,1295.0,53.0,10.0,308.0,259.0,136.0,Using smoking cessation programs to improve overall health,Yes,204.0,27.0,13.0,1891.3092650801304,Medicare
+184.0,79.0,1.0,157.0,13.0,20.0,0.0,431.0,25.0,0.0,47.0,15.0,11.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,215.0,38.0,7.0,758.2510798152025,Private Health Insurance
+204.0,65.0,4.0,149.0,35.0,44.0,10.0,595.0,31.0,2.0,119.0,76.0,53.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,467.0,16.0,1.0,2953.8553231312953,Private Health Insurance
+131.0,48.0,5.0,133.0,30.0,17.0,68.0,3619.0,203.0,12.0,589.0,576.0,293.0,Using smoking cessation programs to improve overall health,No,279.0,43.0,10.0,2385.5192402610414,Medicare
+168.0,51.0,5.0,166.0,38.0,28.0,49.0,2142.0,113.0,4.0,458.0,284.0,194.0,Using smoking cessation programs to improve overall health,No,15.0,16.0,0.0,1748.8444409817828,Medicare
+190.0,55.0,8.0,269.0,40.0,72.0,84.0,6305.0,310.0,22.0,1200.0,983.0,545.0,Using smoking cessation programs to improve overall health,Yes,70.0,33.0,3.0,2836.5475372120113,Medicare
+112.0,41.0,5.0,141.0,19.0,116.0,11.0,924.0,42.0,7.0,185.0,210.0,277.0,Using smoking cessation programs to improve overall health,No,163.0,71.0,3.0,1254.2115165366215,Medicare
+93.0,24.0,8.0,109.0,21.0,35.0,47.0,3589.0,212.0,24.0,735.0,850.0,323.0,Using smoking cessation programs to improve overall health,Yes,428.0,29.0,2.0,3710.3175035164445,Medicare
+31.0,3.0,1.0,5.0,2.0,34.0,98.0,7340.0,367.0,14.0,1265.0,960.0,612.0,Using smoking cessation programs to improve overall health,No,197.0,28.0,2.0,1962.2776893166451,Private Health Insurance
+73.0,21.0,0.0,87.0,4.0,3.0,30.0,1573.0,74.0,0.0,215.0,111.0,57.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,134.0,94.0,9.0,890.9005556524611,Private Health Insurance
+244.0,77.0,5.0,189.0,45.0,65.0,71.0,8098.0,454.0,21.0,1438.0,1363.0,582.0,Using smoking cessation programs to improve overall health,Yes,493.0,46.0,4.0,4784.82796579945,Private Health Insurance
+93.0,27.0,4.0,122.0,27.0,83.0,90.0,5038.0,259.0,14.0,933.0,805.0,460.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,181.0,54.0,7.0,2167.385587786918,Private Health Insurance
+146.0,33.0,1.0,142.0,8.0,35.0,85.0,8777.0,474.0,21.0,1663.0,1171.0,602.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,185.0,47.0,6.0,1951.8095171866566,Private Health Insurance
+42.0,8.0,3.0,29.0,11.0,4.0,5.0,166.0,2.0,5.0,36.0,35.0,17.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,7.0,36.0,6.0,1437.103288306462,Medicare
+10.0,5.0,0.0,20.0,0.0,37.0,64.0,4234.0,238.0,2.0,892.0,336.0,548.0,Using smoking cessation programs to improve overall health,No,188.0,29.0,8.0,876.4675586505657,Medicare
+51.0,13.0,1.0,113.0,3.0,38.0,91.0,5448.0,285.0,11.0,1300.0,564.0,540.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,134.0,1.0,0.0,1082.8901470067842,Private Health Insurance
+85.0,21.0,3.0,69.0,25.0,5.0,52.0,3103.0,163.0,4.0,459.0,291.0,117.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,49.0,60.0,3.0,1940.020397039848,Private Health Insurance
+122.0,48.0,1.0,96.0,9.0,23.0,92.0,5851.0,321.0,5.0,1001.0,597.0,414.0,Using smoking cessation programs to improve overall health,No,355.0,92.0,18.0,3223.886956921952,Medicare
+47.0,16.0,2.0,106.0,7.0,59.0,96.0,5514.0,263.0,16.0,1071.0,720.0,855.0,Using smoking cessation programs to improve overall health,Yes,231.0,8.0,0.0,3532.1355903681883,Medicare
+44.0,10.0,3.0,19.0,7.0,5.0,7.0,350.0,12.0,2.0,79.0,20.0,26.0,Using smoking cessation programs to improve overall health,Yes,256.0,28.0,11.0,733.044719863376,Medicare
+133.0,29.0,4.0,164.0,29.0,88.0,93.0,8945.0,449.0,16.0,1677.0,1112.0,980.0,Using smoking cessation programs to improve overall health,Yes,129.0,74.0,3.0,3602.0523730381265,Medicare
+91.0,21.0,7.0,88.0,25.0,50.0,65.0,2690.0,141.0,10.0,531.0,333.0,290.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,103.0,13.0,0.0,1028.8654262810826,Private Health Insurance
+67.0,23.0,1.0,132.0,4.0,10.0,83.0,3986.0,218.0,2.0,714.0,329.0,351.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,3.0,32.0,12.0,1257.9483873152635,Private Health Insurance
+105.0,40.0,0.0,87.0,8.0,12.0,87.0,6769.0,403.0,7.0,1296.0,734.0,535.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,26.0,83.0,4.0,2677.1128866420404,Private Health Insurance
+129.0,26.0,5.0,147.0,18.0,139.0,15.0,1385.0,56.0,5.0,301.0,166.0,255.0,Using smoking cessation programs to improve overall health,Yes,201.0,49.0,5.0,805.1414277388699,Medicare
+86.0,20.0,6.0,109.0,33.0,68.0,88.0,6786.0,321.0,27.0,1240.0,1277.0,824.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,70.0,9.0,1.0,2514.1533826436794,Private Health Insurance
+141.0,39.0,3.0,124.0,16.0,105.0,11.0,625.0,24.0,7.0,180.0,139.0,158.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,397.0,86.0,18.0,1241.4799452342313,Private Health Insurance
+22.0,2.0,0.0,3.0,0.0,30.0,94.0,5786.0,302.0,12.0,1329.0,661.0,702.0,Using smoking cessation programs to improve overall health,Yes,0.0,8.0,2.0,843.7154840379017,Private Health Insurance
+54.0,13.0,4.0,40.0,17.0,65.0,38.0,2369.0,149.0,7.0,553.0,331.0,312.0,Using smoking cessation programs to improve overall health,No,215.0,30.0,14.0,2568.8899810569133,Medicare
+44.0,8.0,0.0,30.0,0.0,43.0,28.0,1772.0,70.0,3.0,285.0,143.0,166.0,Using smoking cessation programs to improve overall health,Yes,152.0,11.0,1.0,1989.8988472450721,Medicare
+42.0,14.0,2.0,59.0,11.0,7.0,44.0,1102.0,54.0,3.0,188.0,151.0,71.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,209.0,23.0,3.0,1083.9766451499734,Private Health Insurance
+34.0,11.0,0.0,62.0,1.0,15.0,0.0,106.0,2.0,0.0,16.0,1.0,12.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,146.0,7.0,0.0,1775.3984243623927,Private Health Insurance
+160.0,34.0,7.0,186.0,28.0,157.0,85.0,6856.0,390.0,16.0,1649.0,930.0,821.0,Using smoking cessation programs to improve overall health,No,77.0,16.0,5.0,3017.753533094535,Medicare
+157.0,55.0,6.0,217.0,26.0,129.0,30.0,1662.0,101.0,12.0,413.0,405.0,168.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,390.0,20.0,2.0,1891.5658294338511,Private Health Insurance
+235.0,87.0,3.0,193.0,31.0,136.0,94.0,5991.0,285.0,23.0,1086.0,931.0,796.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,388.0,99.0,17.0,3218.289565718857,Private Health Insurance
+137.0,45.0,4.0,210.0,24.0,129.0,74.0,6803.0,342.0,19.0,1635.0,775.0,865.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,218.0,15.0,8.0,1614.1386451364724,Private Health Insurance
+41.0,7.0,0.0,10.0,1.0,1.0,61.0,3348.0,172.0,8.0,528.0,409.0,341.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,105.0,33.0,3.0,1765.9396969416712,Private Health Insurance
+191.0,68.0,9.0,225.0,44.0,36.0,52.0,2812.0,144.0,7.0,502.0,316.0,271.0,Using smoking cessation programs to improve overall health,No,311.0,6.0,2.0,2647.443925367536,Medicare
+39.0,10.0,2.0,22.0,11.0,39.0,48.0,1484.0,67.0,14.0,303.0,430.0,188.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,126.0,3.0,1.0,992.2390615515467,Private Health Insurance
+109.0,19.0,0.0,60.0,8.0,94.0,92.0,6343.0,302.0,16.0,1077.0,812.0,753.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,371.0,90.0,7.0,1809.8455627467558,Private Health Insurance
+41.0,11.0,2.0,83.0,7.0,33.0,52.0,2419.0,121.0,13.0,551.0,362.0,399.0,Using smoking cessation programs to improve overall health,Yes,23.0,27.0,2.0,848.7475843252349,Medicare
+34.0,7.0,0.0,7.0,3.0,48.0,97.0,9336.0,485.0,17.0,1730.0,1222.0,761.0,Using smoking cessation programs to improve overall health,Yes,100.0,4.0,1.0,3658.145462004514,Private Health Insurance
+51.0,16.0,0.0,92.0,5.0,14.0,8.0,791.0,32.0,0.0,168.0,19.0,94.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,96.0,85.0,7.0,965.5607838691726,Private Health Insurance
+81.0,21.0,2.0,101.0,15.0,18.0,65.0,3706.0,206.0,9.0,807.0,446.0,323.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,80.0,42.0,1.0,2597.94129898406,Private Health Insurance
+104.0,18.0,1.0,84.0,14.0,118.0,73.0,4117.0,180.0,14.0,679.0,609.0,575.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,131.0,73.0,18.0,1115.1490015197323,Private Health Insurance
+87.0,14.0,2.0,111.0,4.0,17.0,0.0,174.0,4.0,2.0,80.0,19.0,87.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,42.0,39.0,11.0,669.7626395828011,Private Health Insurance
+22.0,3.0,1.0,31.0,6.0,64.0,14.0,289.0,5.0,3.0,46.0,65.0,165.0,Using smoking cessation programs to improve overall health,Yes,4.0,40.0,5.0,1168.4660973793848,Medicare
+105.0,32.0,3.0,116.0,15.0,61.0,25.0,2372.0,115.0,13.0,502.0,395.0,422.0,Using smoking cessation programs to improve overall health,No,206.0,6.0,0.0,3176.5951220356224,Medicare
+61.0,15.0,7.0,114.0,19.0,52.0,43.0,2335.0,108.0,9.0,400.0,297.0,351.0,Using smoking cessation programs to improve overall health,No,9.0,36.0,2.0,1841.6924205195528,Medicare
+64.0,9.0,2.0,99.0,3.0,31.0,23.0,674.0,22.0,3.0,132.0,42.0,172.0,Using smoking cessation programs to improve overall health,No,103.0,62.0,16.0,513.6859611697852,Medicare
+136.0,30.0,7.0,157.0,39.0,81.0,34.0,3393.0,175.0,17.0,814.0,595.0,432.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,382.0,9.0,5.0,3350.618596135551,Private Health Insurance
+160.0,61.0,4.0,199.0,33.0,33.0,15.0,1019.0,42.0,3.0,211.0,103.0,93.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,355.0,68.0,7.0,2485.9635404709857,Private Health Insurance
+45.0,10.0,6.0,92.0,25.0,48.0,69.0,5266.0,257.0,26.0,1113.0,1127.0,570.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,172.0,0.0,0.0,1791.9413941718421,Medicare
+138.0,27.0,7.0,159.0,19.0,112.0,5.0,805.0,33.0,5.0,195.0,84.0,90.0,Using smoking cessation programs to improve overall health,Yes,21.0,60.0,13.0,1055.9159730280956,Medicare
+100.0,36.0,2.0,141.0,12.0,120.0,73.0,7291.0,432.0,24.0,1761.0,1186.0,916.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,433.0,1.0,1.0,4841.827236598296,Private Health Insurance
+243.0,89.0,2.0,219.0,20.0,128.0,55.0,5149.0,252.0,15.0,923.0,707.0,504.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,44.0,32.0,13.0,3103.902825150914,Private Health Insurance
+30.0,5.0,0.0,17.0,0.0,23.0,33.0,2282.0,131.0,0.0,546.0,87.0,234.0,Using smoking cessation programs to improve overall health,No,116.0,3.0,1.0,1354.765047864908,Medicare
+72.0,23.0,2.0,128.0,14.0,17.0,1.0,106.0,1.0,0.0,6.0,7.0,3.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,89.0,3.0,0.0,824.6834283587125,Private Health Insurance
+45.0,11.0,2.0,14.0,7.0,11.0,90.0,4787.0,218.0,17.0,648.0,699.0,292.0,Using smoking cessation programs to improve overall health,No,289.0,2.0,1.0,863.8406420238699,Medicare
+20.0,1.0,0.0,4.0,0.0,2.0,56.0,2703.0,160.0,8.0,547.0,346.0,135.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,49.0,3.0,0.0,833.3227148898546,Private Health Insurance
+51.0,10.0,4.0,64.0,9.0,21.0,40.0,1079.0,51.0,1.0,281.0,85.0,107.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,10.0,28.0,8.0,721.365594448075,Private Health Insurance
+166.0,45.0,1.0,195.0,8.0,155.0,72.0,5276.0,250.0,9.0,963.0,606.0,797.0,Using smoking cessation programs to improve overall health,No,35.0,59.0,6.0,1564.4862053311538,Private Health Insurance
+11.0,0.0,2.0,2.0,6.0,23.0,82.0,6587.0,326.0,30.0,1269.0,1299.0,878.0,Using smoking cessation programs to improve overall health,No,55.0,18.0,6.0,830.0175632900507,Medicare
+18.0,3.0,4.0,12.0,13.0,1.0,35.0,900.0,40.0,7.0,159.0,240.0,183.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,38.0,7.0,4.0,557.5378167844592,Private Health Insurance
+54.0,15.0,1.0,92.0,10.0,94.0,69.0,4965.0,260.0,19.0,1182.0,851.0,861.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,105.0,49.0,7.0,1689.387507023494,Private Health Insurance
+252.0,96.0,8.0,310.0,48.0,60.0,56.0,3293.0,184.0,10.0,592.0,582.0,135.0,Using smoking cessation programs to improve overall health,Yes,469.0,5.0,8.0,1968.3645238129545,Medicare
+145.0,33.0,8.0,197.0,38.0,142.0,29.0,2448.0,141.0,14.0,535.0,557.0,331.0,Using smoking cessation programs to improve overall health,Yes,219.0,68.0,18.0,1507.8868861951817,Medicare
+36.0,4.0,0.0,19.0,1.0,94.0,95.0,5187.0,222.0,11.0,965.0,555.0,912.0,Using smoking cessation programs to improve overall health,Yes,3.0,28.0,4.0,1370.6312409352408,Medicare
+12.0,0.0,1.0,25.0,3.0,33.0,62.0,1718.0,67.0,3.0,350.0,177.0,198.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,43.0,31.0,6.0,1291.6209082678665,Private Health Insurance
+130.0,32.0,7.0,223.0,29.0,59.0,0.0,302.0,14.0,2.0,103.0,48.0,38.0,Using smoking cessation programs to improve overall health,Yes,183.0,25.0,8.0,706.6811536755819,Medicare
+79.0,11.0,0.0,102.0,3.0,64.0,10.0,310.0,7.0,0.0,39.0,11.0,50.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,354.0,23.0,1.0,595.5491641445199,Private Health Insurance
+222.0,77.0,3.0,182.0,38.0,159.0,99.0,9354.0,483.0,23.0,1851.0,1321.0,905.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,120.0,82.0,4.0,2281.522205568409,Private Health Insurance
+102.0,22.0,4.0,159.0,20.0,38.0,65.0,4799.0,233.0,23.0,945.0,966.0,514.0,Using smoking cessation programs to improve overall health,Yes,47.0,38.0,5.0,3765.5562275814355,Medicare
+110.0,48.0,2.0,207.0,25.0,46.0,9.0,246.0,10.0,2.0,42.0,58.0,40.0,Using smoking cessation programs to improve overall health,Yes,59.0,27.0,12.0,682.625260164121,Medicare
+256.0,73.0,8.0,227.0,40.0,153.0,35.0,2639.0,121.0,17.0,496.0,448.0,319.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,417.0,76.0,19.0,2870.358546636897,Private Health Insurance
+23.0,9.0,5.0,75.0,8.0,18.0,75.0,5473.0,319.0,13.0,1186.0,839.0,597.0,Using smoking cessation programs to improve overall health,Yes,208.0,1.0,2.0,1334.9142412769859,Medicare
+100.0,26.0,1.0,136.0,18.0,71.0,86.0,6719.0,408.0,11.0,1565.0,847.0,774.0,Using smoking cessation programs to improve overall health,Yes,298.0,9.0,6.0,3038.6991458134294,Medicare
+48.0,9.0,3.0,29.0,6.0,6.0,62.0,2463.0,119.0,3.0,475.0,182.0,295.0,Using smoking cessation programs to improve overall health,Yes,3.0,21.0,2.0,735.4499964256412,Medicare
+210.0,83.0,10.0,359.0,49.0,87.0,68.0,7066.0,444.0,21.0,1501.0,1168.0,442.0,Using smoking cessation programs to improve overall health,Yes,76.0,29.0,5.0,2860.4247563501062,Medicare
+122.0,36.0,6.0,219.0,20.0,158.0,17.0,891.0,41.0,6.0,214.0,169.0,261.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,156.0,15.0,2.0,849.6221039652974,Private Health Insurance
+139.0,50.0,1.0,210.0,11.0,173.0,14.0,610.0,33.0,0.0,147.0,38.0,103.0,Using smoking cessation programs to improve overall health,No,389.0,64.0,4.0,1544.7882988456236,Medicare
+122.0,28.0,1.0,119.0,10.0,13.0,16.0,1729.0,94.0,2.0,409.0,140.0,230.0,Using smoking cessation programs to improve overall health,Yes,133.0,48.0,8.0,1423.0935269284703,Medicare
+99.0,18.0,1.0,67.0,14.0,44.0,86.0,8149.0,431.0,22.0,1390.0,1210.0,595.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,21.0,55.0,16.0,3608.653785492702,Private Health Insurance
+40.0,6.0,5.0,15.0,15.0,48.0,61.0,2650.0,142.0,9.0,435.0,439.0,388.0,Using smoking cessation programs to improve overall health,No,445.0,0.0,0.0,2205.7200893314653,Private Health Insurance
+27.0,2.0,1.0,47.0,1.0,17.0,17.0,1052.0,34.0,4.0,181.0,133.0,108.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,214.0,60.0,13.0,820.6133708442492,Private Health Insurance
+121.0,28.0,4.0,95.0,27.0,8.0,84.0,5074.0,244.0,10.0,891.0,638.0,350.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,307.0,24.0,10.0,2551.2515587763187,Private Health Insurance
+176.0,56.0,10.0,309.0,41.0,167.0,82.0,6237.0,346.0,29.0,1661.0,1176.0,822.0,Using smoking cessation programs to improve overall health,Yes,163.0,11.0,4.0,3767.8399852088123,Medicare
+159.0,40.0,8.0,208.0,43.0,92.0,12.0,1661.0,87.0,8.0,444.0,237.0,127.0,Using smoking cessation programs to improve overall health,Yes,258.0,69.0,8.0,2410.3199429874267,Medicare
+102.0,24.0,1.0,149.0,5.0,105.0,26.0,2409.0,151.0,2.0,525.0,188.0,299.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,466.0,20.0,2.0,3646.8947027578183,Private Health Insurance
+79.0,21.0,0.0,132.0,5.0,31.0,60.0,4071.0,212.0,4.0,739.0,354.0,376.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,22.0,26.0,1.0,1632.2906461455625,Private Health Insurance
+141.0,37.0,2.0,185.0,7.0,34.0,32.0,2987.0,175.0,5.0,777.0,264.0,278.0,Using smoking cessation programs to improve overall health,Yes,269.0,40.0,8.0,2761.5693297969506,Medicare
+117.0,25.0,5.0,193.0,19.0,122.0,72.0,4802.0,219.0,11.0,827.0,485.0,450.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,198.0,52.0,13.0,3505.6452822781775,Private Health Insurance
+92.0,28.0,2.0,139.0,9.0,10.0,48.0,1437.0,63.0,1.0,193.0,83.0,99.0,Using smoking cessation programs to improve overall health,Yes,16.0,68.0,5.0,824.4951399167383,Medicare
+283.0,80.0,7.0,189.0,45.0,133.0,47.0,4554.0,228.0,16.0,779.0,757.0,402.0,Using smoking cessation programs to improve overall health,No,75.0,65.0,17.0,2835.790704619898,Medicare
+121.0,38.0,1.0,178.0,22.0,174.0,19.0,1495.0,76.0,3.0,366.0,204.0,275.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,337.0,20.0,3.0,1618.400470549251,Private Health Insurance
+85.0,24.0,8.0,110.0,23.0,14.0,31.0,677.0,24.0,2.0,64.0,45.0,94.0,Using smoking cessation programs to improve overall health,Yes,46.0,38.0,15.0,544.5721546659062,Medicare
+238.0,73.0,5.0,266.0,32.0,192.0,99.0,9936.0,499.0,30.0,1929.0,1452.0,993.0,Using smoking cessation programs to improve overall health,No,276.0,69.0,17.0,4950.67343423887,Medicare
+52.0,8.0,6.0,29.0,28.0,71.0,62.0,2377.0,126.0,9.0,401.0,411.0,355.0,Using smoking cessation programs to improve overall health,Yes,184.0,53.0,12.0,2435.2787873994525,Medicare
+144.0,35.0,1.0,108.0,15.0,51.0,71.0,4207.0,231.0,9.0,915.0,509.0,352.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,162.0,41.0,1.0,3995.6018334977925,Private Health Insurance
+39.0,8.0,4.0,100.0,5.0,16.0,83.0,3955.0,203.0,17.0,851.0,603.0,388.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,1.0,7.0,0.0,2532.179726288505,Medicare
+99.0,18.0,1.0,78.0,13.0,20.0,85.0,6689.0,388.0,10.0,1433.0,705.0,556.0,Using smoking cessation programs to improve overall health,No,196.0,27.0,14.0,1889.3068397181323,Medicare
+195.0,77.0,1.0,293.0,19.0,191.0,49.0,4329.0,259.0,16.0,1028.0,684.0,477.0,Using smoking cessation programs to improve overall health,Yes,48.0,19.0,0.0,3784.765644782673,Medicare
+74.0,23.0,1.0,116.0,16.0,117.0,36.0,2445.0,152.0,6.0,471.0,349.0,339.0,Using smoking cessation programs to improve overall health,No,127.0,7.0,0.0,2149.062874619556,Private Health Insurance
+20.0,1.0,0.0,46.0,3.0,26.0,89.0,4338.0,236.0,6.0,843.0,455.0,403.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,309.0,0.0,2.0,3171.500356598589,Private Health Insurance
+194.0,60.0,1.0,266.0,10.0,160.0,6.0,308.0,11.0,2.0,149.0,32.0,100.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,327.0,36.0,2.0,2166.979287603693,Private Health Insurance
+43.0,7.0,4.0,40.0,13.0,28.0,95.0,7602.0,365.0,26.0,1394.0,1209.0,872.0,Using smoking cessation programs to improve overall health,Yes,63.0,17.0,2.0,3605.4411562990003,Medicare
+212.0,72.0,3.0,305.0,35.0,189.0,72.0,5770.0,306.0,25.0,1330.0,1191.0,635.0,Using smoking cessation programs to improve overall health,Yes,364.0,48.0,15.0,4314.792595353278,Medicare
+29.0,10.0,0.0,16.0,0.0,2.0,54.0,3969.0,221.0,2.0,710.0,321.0,241.0,Using smoking cessation programs to improve overall health,Yes,143.0,59.0,16.0,1925.447970552562,Private Health Insurance
+140.0,60.0,2.0,148.0,31.0,95.0,94.0,9231.0,487.0,18.0,1796.0,1358.0,772.0,Using smoking cessation programs to improve overall health,No,51.0,33.0,3.0,2926.847741653977,Medicare
+34.0,8.0,0.0,13.0,3.0,0.0,3.0,261.0,11.0,1.0,49.0,28.0,32.0,Using smoking cessation programs to improve overall health,No,50.0,24.0,1.0,713.0915809765112,Medicare
+18.0,7.0,3.0,18.0,4.0,43.0,96.0,4557.0,227.0,14.0,707.0,744.0,464.0,Using smoking cessation programs to improve overall health,No,255.0,11.0,2.0,2907.79972061628,Medicare
+214.0,77.0,2.0,158.0,29.0,21.0,30.0,1933.0,91.0,1.0,279.0,94.0,106.0,Using smoking cessation programs to improve overall health,No,81.0,86.0,12.0,2090.4999366964225,Medicare
+34.0,10.0,0.0,30.0,0.0,25.0,32.0,1318.0,54.0,3.0,290.0,117.0,236.0,Using smoking cessation programs to improve overall health,Yes,3.0,46.0,1.0,1700.5531901043257,Medicare
+32.0,4.0,0.0,19.0,1.0,17.0,47.0,1594.0,73.0,5.0,421.0,181.0,293.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,307.0,30.0,2.0,1035.4093812984963,Private Health Insurance
+185.0,64.0,1.0,139.0,13.0,89.0,29.0,1274.0,71.0,2.0,324.0,145.0,222.0,Using smoking cessation programs to improve overall health,No,205.0,100.0,12.0,2302.7317940955413,Medicare
+55.0,12.0,0.0,50.0,1.0,3.0,1.0,117.0,2.0,0.0,32.0,5.0,19.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,13.0,42.0,8.0,580.9426535672525,Private Health Insurance
+96.0,22.0,2.0,67.0,20.0,8.0,37.0,3198.0,183.0,5.0,503.0,357.0,109.0,Using smoking cessation programs to improve overall health,No,261.0,76.0,19.0,919.1225731507521,Medicare
+135.0,50.0,8.0,191.0,45.0,118.0,23.0,2894.0,163.0,24.0,572.0,690.0,292.0,Using smoking cessation programs to improve overall health,Yes,50.0,2.0,0.0,4021.4273157555917,Medicare
+216.0,86.0,9.0,212.0,48.0,127.0,21.0,862.0,37.0,9.0,101.0,191.0,76.0,Using smoking cessation programs to improve overall health,Yes,71.0,13.0,6.0,1239.6260165803722,Medicare
+141.0,42.0,2.0,160.0,12.0,115.0,67.0,3510.0,182.0,7.0,598.0,431.0,268.0,Using smoking cessation programs to improve overall health,No,361.0,41.0,3.0,2191.7617276742503,Private Health Insurance
+109.0,20.0,6.0,178.0,32.0,50.0,57.0,2183.0,98.0,12.0,407.0,333.0,160.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,340.0,59.0,7.0,1291.4990288542776,Private Health Insurance
+37.0,11.0,1.0,67.0,6.0,84.0,89.0,4341.0,232.0,10.0,871.0,684.0,731.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,395.0,42.0,1.0,2175.9973366534446,Private Health Insurance
+23.0,2.0,0.0,6.0,2.0,5.0,36.0,725.0,28.0,4.0,126.0,107.0,108.0,Using smoking cessation programs to improve overall health,No,166.0,21.0,11.0,862.4372152235397,Medicare
+65.0,12.0,1.0,71.0,4.0,46.0,76.0,6182.0,305.0,23.0,1411.0,1047.0,827.0,Using smoking cessation programs to improve overall health,No,8.0,6.0,1.0,2353.2196577535565,Medicare
+151.0,66.0,2.0,221.0,16.0,55.0,27.0,870.0,43.0,0.0,235.0,32.0,93.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,284.0,19.0,13.0,2013.0108135781827,Medicare
+148.0,34.0,6.0,120.0,29.0,139.0,35.0,1157.0,48.0,12.0,258.0,255.0,268.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,187.0,8.0,2.0,1032.2609993298165,Private Health Insurance
+75.0,20.0,3.0,115.0,12.0,15.0,13.0,913.0,49.0,7.0,326.0,162.0,102.0,Using smoking cessation programs to improve overall health,No,134.0,2.0,1.0,807.6916440938179,Medicare
+14.0,3.0,0.0,8.0,1.0,43.0,97.0,6738.0,340.0,13.0,1342.0,733.0,840.0,Using smoking cessation programs to improve overall health,Yes,104.0,10.0,4.0,1839.4735246549378,Private Health Insurance
+214.0,91.0,3.0,167.0,41.0,91.0,63.0,5563.0,290.0,10.0,990.0,711.0,429.0,Using smoking cessation programs to improve overall health,Yes,429.0,53.0,11.0,2385.2695773053,Medicare
+207.0,82.0,1.0,187.0,33.0,40.0,53.0,2469.0,162.0,1.0,395.0,229.0,37.0,Using smoking cessation programs to improve overall health,No,101.0,42.0,3.0,1881.281638369454,Medicare
+19.0,0.0,0.0,16.0,1.0,4.0,39.0,1315.0,64.0,1.0,284.0,105.0,90.0,Using smoking cessation programs to improve overall health,No,232.0,1.0,3.0,1424.118885805374,Medicare
+23.0,8.0,5.0,45.0,14.0,26.0,100.0,9509.0,484.0,29.0,1852.0,1443.0,928.0,Using smoking cessation programs to improve overall health,No,163.0,9.0,0.0,4346.581426274975,Medicare
+125.0,54.0,3.0,142.0,12.0,7.0,76.0,3939.0,197.0,4.0,561.0,365.0,227.0,Using smoking cessation programs to improve overall health,Yes,13.0,88.0,4.0,2904.701013503421,Medicare
+125.0,34.0,6.0,167.0,37.0,48.0,50.0,4562.0,231.0,13.0,958.0,647.0,542.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,179.0,59.0,3.0,1344.4315191759267,Private Health Insurance
+21.0,8.0,4.0,14.0,8.0,40.0,58.0,3507.0,205.0,15.0,743.0,591.0,427.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,259.0,1.0,0.0,4207.991578755581,Private Health Insurance
+80.0,15.0,5.0,119.0,10.0,54.0,88.0,6874.0,364.0,20.0,1642.0,1028.0,947.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,62.0,45.0,10.0,3601.396904343722,Private Health Insurance
+186.0,67.0,6.0,290.0,21.0,94.0,8.0,1443.0,97.0,4.0,366.0,204.0,158.0,Using smoking cessation programs to improve overall health,No,120.0,8.0,0.0,1030.2271582477292,Medicare
+141.0,28.0,2.0,179.0,15.0,143.0,93.0,5407.0,257.0,21.0,1013.0,900.0,746.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,92.0,26.0,2.0,2472.6172943668544,Private Health Insurance
+94.0,16.0,1.0,67.0,6.0,35.0,93.0,8034.0,440.0,21.0,1737.0,1094.0,912.0,Using smoking cessation programs to improve overall health,Yes,280.0,76.0,3.0,3900.7175338607326,Medicare
+23.0,1.0,4.0,35.0,4.0,14.0,29.0,1927.0,88.0,10.0,362.0,303.0,331.0,Using smoking cessation programs to improve overall health,No,163.0,0.0,0.0,1337.6795624216404,Medicare
+16.0,5.0,0.0,6.0,4.0,9.0,90.0,6003.0,288.0,11.0,1174.0,707.0,833.0,Utilizing nicotine replacement therapy to aid in quitting smoking,No,22.0,70.0,10.0,1137.085476384746,Private Health Insurance
+57.0,18.0,6.0,65.0,13.0,5.0,83.0,3844.0,205.0,21.0,853.0,592.0,338.0,Using smoking cessation programs to improve overall health,Yes,95.0,26.0,2.0,1812.887087302083,Medicare
+128.0,50.0,9.0,257.0,36.0,176.0,36.0,2730.0,168.0,9.0,588.0,436.0,502.0,Using smoking cessation programs to improve overall health,Yes,346.0,51.0,6.0,3123.127726737016,Medicare
+244.0,96.0,10.0,363.0,49.0,97.0,59.0,3869.0,181.0,23.0,881.0,672.0,357.0,Using smoking cessation programs to improve overall health,No,48.0,18.0,0.0,1814.8337575920293,Medicare
+22.0,1.0,0.0,0.0,0.0,8.0,77.0,3349.0,168.0,6.0,575.0,352.0,434.0,Using smoking cessation programs to improve overall health,No,290.0,21.0,7.0,1744.361922443185,Medicare
+109.0,22.0,1.0,146.0,9.0,71.0,41.0,2336.0,127.0,11.0,657.0,323.0,361.0,Using smoking cessation programs to improve overall health,No,377.0,16.0,9.0,3674.9570820202307,Medicare
+79.0,16.0,2.0,122.0,8.0,58.0,78.0,3453.0,189.0,15.0,895.0,542.0,469.0,Using smoking cessation programs to improve overall health,No,259.0,25.0,2.0,2221.723136605242,Medicare
+19.0,1.0,0.0,2.0,1.0,3.0,53.0,2575.0,127.0,6.0,361.0,383.0,191.0,Using smoking cessation programs to improve overall health,No,323.0,9.0,0.0,1110.0894079935326,Private Health Insurance
+108.0,33.0,2.0,140.0,8.0,6.0,46.0,1807.0,68.0,1.0,303.0,42.0,148.0,Utilizing nicotine replacement therapy to aid in quitting smoking,Yes,201.0,48.0,11.0,1631.7386102111109,Private Health Insurance
+33.0,7.0,2.0,51.0,10.0,4.0,67.0,3923.0,213.0,9.0,694.0,503.0,288.0,Using smoking cessation programs to improve overall health,No,1.0,49.0,6.0,794.7482599021956,Medicare
